@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a509d89-0f02-44f1-a152-75e7db803062" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RouteParsing/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+              <folding>
+                <marker date="1552451718720" expanded="false" signature="6:87" ph="..." />
+                <marker date="1552451718720" expanded="true" signature="111:1250" ph="{...}" />
+                <marker date="1552451718720" expanded="true" signature="140:1248" ph="{...}" />
+                <marker date="1552451718720" expanded="true" signature="193:1242" ph="{...}" />
+                <marker date="1552451718720" expanded="true" signature="568:694" ph="/* for (int i = 0; i &lt; filteredPoints.Count; i++) ... */" />
+                <marker date="1552451718720" expanded="true" signature="766:1132" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RouteParsing/PointsFilterer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="129" column="32" lean-forward="true" selection-start-line="129" selection-start-column="32" selection-end-line="129" selection-end-column="32" />
+              <folding>
+                <marker date="1552451697071" expanded="false" signature="6:47" ph="..." />
+                <marker date="1552451697071" expanded="true" signature="71:7995" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="133:7993" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="225:273" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="339:759" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="422:474" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="523:748" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="635:733" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="846:2132" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="944:996" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="1022:1126" ph="/* Velocity = (euclid distance)/(time interval) ... */" />
+                <marker date="1552451697071" expanded="true" signature="1333:2118" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="1700:1850" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="1980:2087" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2218:2639" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2259:2311" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2374:2616" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2503:2601" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2718:3414" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2759:2811" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2874:3404" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="2990:3390" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="3078:3372" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="3220:3350" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="3495:5373" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="3537:3589" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="3889:5362" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="5200:5331" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="5471:6802" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="5512:5569" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="5882:6598" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="6065:6199" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="6220:6293" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="6407:6584" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="6656:6739" ph="{...}" />
+                <marker date="1552451697071" expanded="true" signature="6919:7987" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RouteParsing/Point.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <marker date="1552430251680" expanded="true" signature="37:573" ph="{...}" />
+                <marker date="1552430251680" expanded="true" signature="62:571" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RouteParsing/Filterer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+              <folding>
+                <marker date="1552451692915" expanded="true" signature="22:147" ph="{...}" />
+                <marker date="1552451692915" expanded="true" signature="58:145" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test1</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RouteParsing/PointsFilterer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RouteParsing/Filterer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RouteParsing/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RouteParsing/Point.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test1/Point.cs" />
+        <option value="$PROJECT_DIR$/test1/Points.cs" />
+        <option value="$PROJECT_DIR$/test1/Program.cs" />
+        <option value="$PROJECT_DIR$/RouteParsing/RouteParsing.csproj" />
+        <option value="$PROJECT_DIR$/RouteParsing/Points.cs" />
+        <option value="$PROJECT_DIR$/RouteParsing/obj/Filter.cs" />
+        <option value="$PROJECT_DIR$/RouteParsing/Filter.cs" />
+        <option value="$PROJECT_DIR$/RouteParsing/Point.cs" />
+        <option value="$PROJECT_DIR$/RouteParsing/PointsFilterer.cs" />
+        <option value="$PROJECT_DIR$/RouteParsing/Filterer.cs" />
+        <option value="$PROJECT_DIR$/RouteParsing/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RouteParsing" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/test1/bin/Debug/test1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RouteParsing/RouteParsing.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a509d89-0f02-44f1-a152-75e7db803062" name="Default Changelist" comment="" />
+      <created>1552036444743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552036444743</updated>
+      <workItem from="1552036450384" duration="2187000" />
+      <workItem from="1552213952674" duration="44036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46223000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.114072494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24918744" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40303358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="TeamCity" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3261105" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="re" />
+        <watch expression="re" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RouteParsing/RouteParsing.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/points.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="173" selection-end-column="1007922" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RouteParsing/bin/Debug/points.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret column="1331" selection-start-column="1312" selection-end-column="1331" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RouteParsing/obj/Filter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RouteParsing/Points.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RouteParsing/Filterer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+          <folding>
+            <marker date="1552451692915" expanded="true" signature="22:147" ph="{...}" />
+            <marker date="1552451692915" expanded="true" signature="58:145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RouteParsing/Point.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1552430251680" expanded="true" signature="37:573" ph="{...}" />
+            <marker date="1552430251680" expanded="true" signature="62:571" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RouteParsing/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <folding>
+            <marker date="1552451718720" expanded="false" signature="6:87" ph="..." />
+            <marker date="1552451718720" expanded="true" signature="111:1250" ph="{...}" />
+            <marker date="1552451718720" expanded="true" signature="140:1248" ph="{...}" />
+            <marker date="1552451718720" expanded="true" signature="193:1242" ph="{...}" />
+            <marker date="1552451718720" expanded="true" signature="568:694" ph="/* for (int i = 0; i &lt; filteredPoints.Count; i++) ... */" />
+            <marker date="1552451718720" expanded="true" signature="766:1132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RouteParsing/PointsFilterer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="129" column="32" lean-forward="true" selection-start-line="129" selection-start-column="32" selection-end-line="129" selection-end-column="32" />
+          <folding>
+            <marker date="1552451697071" expanded="false" signature="6:47" ph="..." />
+            <marker date="1552451697071" expanded="true" signature="71:7995" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="133:7993" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="225:273" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="339:759" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="422:474" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="523:748" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="635:733" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="846:2132" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="944:996" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="1022:1126" ph="/* Velocity = (euclid distance)/(time interval) ... */" />
+            <marker date="1552451697071" expanded="true" signature="1333:2118" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="1700:1850" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="1980:2087" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2218:2639" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2259:2311" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2374:2616" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2503:2601" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2718:3414" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2759:2811" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2874:3404" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="2990:3390" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="3078:3372" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="3220:3350" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="3495:5373" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="3537:3589" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="3889:5362" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="5200:5331" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="5471:6802" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="5512:5569" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="5882:6598" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="6065:6199" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="6220:6293" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="6407:6584" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="6656:6739" ph="{...}" />
+            <marker date="1552451697071" expanded="true" signature="6919:7987" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

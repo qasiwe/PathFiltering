@@ -1,0 +1,8 @@
+D:\CSHARP\Solution1\RouteParsing\obj\Debug\RouteParsing.csprojResolveAssemblyReference.cache
+D:\CSHARP\Solution1\RouteParsing\bin\Debug\RouteParsing.exe
+D:\CSHARP\Solution1\RouteParsing\bin\Debug\RouteParsing.pdb
+D:\CSHARP\Solution1\RouteParsing\bin\Debug\Newtonsoft.Json.dll
+D:\CSHARP\Solution1\RouteParsing\bin\Debug\Newtonsoft.Json.pdb
+D:\CSHARP\Solution1\RouteParsing\bin\Debug\Newtonsoft.Json.xml
+D:\CSHARP\Solution1\RouteParsing\obj\Debug\RouteParsing.exe
+D:\CSHARP\Solution1\RouteParsing\obj\Debug\RouteParsing.pdb

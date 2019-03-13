@@ -1,0 +1,8 @@
+D:\CSHARP\Solution1\test1\bin\Debug\test1.exe
+D:\CSHARP\Solution1\test1\bin\Debug\test1.pdb
+D:\CSHARP\Solution1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\CSHARP\Solution1\test1\obj\Debug\test1.exe
+D:\CSHARP\Solution1\test1\obj\Debug\test1.pdb
+D:\CSHARP\Solution1\test1\bin\Debug\Newtonsoft.Json.dll
+D:\CSHARP\Solution1\test1\bin\Debug\Newtonsoft.Json.pdb
+D:\CSHARP\Solution1\test1\bin\Debug\Newtonsoft.Json.xml
